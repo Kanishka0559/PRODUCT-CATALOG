@@ -1,0 +1,29 @@
+[
+{
+"id": 1,
+"title": "Essence Mascara Lash Princess",
+"brand": "Essence",
+"description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing effect.",
+"price": 9.99,
+"discountPercentage": -10.48,
+"image": "https://picsum.photos/seed/makeup1/800/800"
+},
+{
+"id": 2,
+"title": "Eyeshadow Palette with Mirror",
+"brand": "Glamour Beauty",
+"description": "A versatile range of eyeshadow shades with a built-in mirror.",
+"price": 19.99,
+"discountPercentage": -18.19,
+"image": "https://picsum.photos/seed/makeup2/800/800"
+},
+{
+"id": 3,
+"title": "Powder Canister",
+"brand": "Velvet Touch",
+"description": "A smooth setting powder designed to reduce shine and even skin tone.",
+"price": 14.99,
+"discountPercentage": -9.84,
+"image": "https://picsum.photos/seed/makeup3/800/800"
+}
+]
